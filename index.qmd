@@ -3,7 +3,7 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: C:\Users\nebar\Desktop\pictures\family.png
+  image: C:/Users/nebar/Desktop/pictures/family.png
 ---
 
 :::{#me}
