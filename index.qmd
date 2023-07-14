@@ -7,7 +7,7 @@ about:
   image-width: 28em
   links:
     - text: LinkedIn
-      href: https://www.linkedin.com/in/bethelhem-a-kassa/
+      href: https://www.linkedin.com/in/bethelhem-kassa-0022a6128/
     - text: GitHub
       href: https://github.com/nebarse
     - text: Email
@@ -16,7 +16,14 @@ about:
 
 :::{#me}
 
-## Goals
+## Goal
+
+I would like to join the healthcare industry and make a change in:
+
+    -Reducing failure in treatement specifically in chronic illness and
+    
+    
+    -Identifying patient risks
 
 ## Education
 
