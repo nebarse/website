@@ -1,9 +1,9 @@
 ---
-title: "About Me"
+title: "Bio"
 about:
   id: me
   template: broadside
-  image: C:/Users/nebar/Desktop/pictures/family.png
+  image: "family.jpg"
 ---
 
 :::{#me}
@@ -11,6 +11,7 @@ about:
 ## Goals
 
 ## Education
+data science
 
 ## Experience
 
