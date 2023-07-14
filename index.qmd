@@ -1,9 +1,17 @@
 ---
-title: "Bio"
+title: "Bethelhem Kassa"
+image: img/betty.jpg
 about:
-  id: me
-  template: broadside
-  image: "family.jpg"
+  template: trestles
+  image-shape: round
+  image-width: 28em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/bethelhem-a-kassa/
+    - text: GitHub
+      href: https://github.com/nebarse
+    - text: Email
+      href: mailto:nebarse15@gmail.com
 ---
 
 :::{#me}
@@ -11,9 +19,39 @@ about:
 ## Goals
 
 ## Education
-data science
+
+**B.S. in  Data Science| Minor: Applied Statistics**
+
+Metropolitan State University, Saint Paul, MN | August 2022- June2024
+
+**M.S. in Health Informatics**
+
+Addis Ababa University, Addis Ababa, Ethiopia | 2015-2018
+
+**B.S. in Information Systems**
+
+Addis Ababa University, Addis Ababa, Ethiopia | 2003-2009
+
+**Diploma in Nursing**
+
+SalaM Nurses College, Addis Ababa, Ethiopia | 2001-2003
 
 ## Experience
+
+**Data Science Intern**
+
+Prostate Cancer clinical Trial Consortium at Memorial Sloan Kettering, 
+New York, US | June 2023 - Present
+
+**Health Management Information System Officer**
+
+Tikur Anbessa Specialized Hospital, Addis Ababa, Ethiopia | 2015-2016              
+
+**Pediatrics Nurse (infectious)	**	
+
+Tikur Anbessa Specialized Hospital, Addis Ababa, Ethiopia | 2003-2015                                                                                  
+
+
 
 :::
 
