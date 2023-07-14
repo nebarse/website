@@ -2,7 +2,7 @@
 title: "Bethelhem Kassa"
 image: img/betty.jpg
 about:
-  template: trestles
+  template: solana
   image-shape: round
   image-width: 28em
   links:
