@@ -8,7 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - projects.qmd
+      - about.qmd
     tools:
       - icon: twitter
         href: https://twitter.com/
