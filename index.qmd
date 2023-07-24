@@ -1,6 +1,6 @@
 ---
 title: "Bethelhem Kassa"
-image: img/betty.jpg
+image: img/profile.jpg
 about:
   template: solana
   image-shape: round
@@ -20,7 +20,7 @@ about:
 
 **I would like to join the healthcare industry and make a change in:**
 
-    Reducing failure in treatement specifically in chronic illness and
+    Improve the healthcare quality by reducing failure in treatment specifically in chronic illness and
     
     
     Identifying patient risks
@@ -29,7 +29,7 @@ about:
 
 **B.S. in  Data Science| Minor: Applied Statistics**
 
-Metropolitan State University, Saint Paul, MN | August 2022- June2024
+Metropolitan State University, Saint Paul, MN | August 2022- June 2024
 
 **M.S. in Health Informatics**
 
