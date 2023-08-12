@@ -1,0 +1,77 @@
+---
+title: "Summer 2023 Internship at PCCTC"
+author: "BETHELHEM KASSA"
+format:  
+  revealjs:
+    incremental: true
+    theme: beige
+---
+
+## Outline
+
+1. Appreciation
+2. Who I am 
+3. My work
+4. Sample code and output
+5. What I have learnt
+6. Challenge
+7. Link
+
+## Appreciation
+
+- All team members in PCCTC
+
+- Data Science team 
+
+- Specially Shannon and Victoria
+
+## Who I am 
+
+- Born in Ethiopia
+
+- Senior at Metropolitan State University
+
+- Major: Data Science, Minor: Applied Statistics
+
+## My work
+
+Planned/organizational
+
+- IRONMAN Manual Review (achieved)
+
+- Biospecimen reconciliation (achieved)
+
+- Dora Metrics
+
+Personal 
+
+- Developing website and presentation using quarto
+
+## Sample Code
+
+
+
+## Sample output
+
+
+
+
+## What I have learnt
+
+- New R packages and better R coding techniques
+
+- Github
+
+- Networking and Professional development
+
+- Website development and presentation using quarto
+
+- Importance of attention detail and team effort
+
+## Challenge
+
+- Unable to get some access on time(github, VPN)
+
+- Unable to sync one drive (created opportunity to use SharePoint)
+
+## Link
