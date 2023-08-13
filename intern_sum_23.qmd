@@ -9,69 +9,91 @@ format:
 
 ## Outline
 
-1. Appreciation
-2. Who I am 
-3. My work
-4. Sample code and output
-5. What I have learnt
-6. Challenge
-7. Link
+1.  Appreciation
+
+2.  Who I am
+
+3.  Career Pathway
+
+4.  My work
+
+    -   Sample output I & II
+    -   Sample code
+
+5.  What I have Learnt
+
+6.  Challenge
+
+7.  Link
 
 ## Appreciation
 
-- All team members in PCCTC
+-   All team members in PCCTC
 
-- Data Science team 
+-   Data Science team
 
-- Specially Shannon and Victoria
+-   Especially Shannon and Victoria
 
-## Who I am 
+## Who I am
 
-- Born in Ethiopia
+-   Born in Ethiopia
 
-- Senior at Metropolitan State University
+-   Senior at Metropolitan State University
 
-- Major: Data Science, Minor: Applied Statistics
+-   Major: Data Science, Minor: Applied Statistics
+
+## Career Pathway
+
+Achieved
+
+Nursing(diploma) ----\> Information Systems(Bsc) ----\> Health Informatics(Msc)
+
+On the way
+
+Data Science(Bsc)
+
+Plan
+
+Clinical Data Scientist
 
 ## My work
 
 Planned/organizational
 
-- IRONMAN Manual Review (achieved)
+-   IRONMAN Manual Review (achieved)
 
-- Biospecimen reconciliation (achieved)
+-   Biospecimen reconciliation (achieved)
 
-- Dora Metrics
+-   Dora Metrics
 
-Personal 
+Personal
 
-- Developing website and presentation using quarto
+-   Developing website and presentation using quarto
 
-## Sample Code
+# Sample output I
 
+![Sample output on manual review](img/IRONMAN%20output.png)
 
+# Sample output II
 
-## Sample output
+![radiation output](img/radiation_duplicate.png)
 
+# Sample code
 
+![Sample code for output I](img/sample_code.png)
 
+## What I have Learnt
 
-## What I have learnt
+-   New R packages and better R coding techniques
 
-- New R packages and better R coding techniques
+-   Github
 
-- Github
-
-- Networking and Professional development
-
-- Website development and presentation using quarto
-
-- Importance of attention detail and team effort
+-   Networking and Professional development
 
 ## Challenge
 
-- Unable to get some access on time(github, VPN)
+-   Unable to get some access on time(GitHub, VPN)
 
-- Unable to sync one drive (created opportunity to use SharePoint)
+-   Unable to sync one drive (created opportunity to use SharePoint)
 
 ## Link
