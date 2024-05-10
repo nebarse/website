@@ -23,13 +23,13 @@ about:
     Improving the healthcare quality by reducing failure in treatment specifically in chronic illness and
     
     
-    Identifying patient risks
+    Identifying patient risks 
 
 ## Education
 
 **B.S. in  Data Science| Minor: Applied Statistics**
 
-Metropolitan State University, Saint Paul, MN | August 2022- June 2024
+Metropolitan State University, Saint Paul, MN | August 2022- December 2024
 
 **M.S. in Health Informatics**
 
@@ -48,7 +48,7 @@ SalaM Nurses College, Addis Ababa, Ethiopia | 2001-2003
 **Data Science Intern**
 
 Prostate Cancer clinical Trial Consortium at Memorial Sloan Kettering, 
-New York, US | June 2023 - Present
+New York, US | June 2023 - August 2023
 
 **Health Management Information System Officer**
 
