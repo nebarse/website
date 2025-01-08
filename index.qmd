@@ -1,6 +1,6 @@
 ---
 title: "Bethelhem Kassa"
-image: img/profile.jpg
+image: img/bettyphoto.jpg
 about:
   template: solana
   image-shape: round
